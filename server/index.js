@@ -20,9 +20,10 @@ app.post("/todos", async (req, res) => {
     try {   
         console.log(req.body)
     } catch(err){
-        console.error(err)
+        console.error(err.message)
     }
 })
+
 
 //get all todos
 
