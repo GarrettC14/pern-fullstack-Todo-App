@@ -10,8 +10,9 @@ app.use(express.json()); //req.body
 
 //connection to DB
 const pool = new Pool({
-    // user: "postgres", this is for windows, below for mac
-    user: "daiyan",
+    user: "postgres", 
+    //this is for windows, below for mac
+    //user: "daiyan",
     password: "12345",
     host: "localhost",
     port: 5432,

@@ -1,0 +1,19 @@
+{
+  "name": "pern-todoapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarrettC14/pern-fullstack-Todo-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GarrettC14/pern-fullstack-Todo-App/issues"
+  },
+  "homepage": "https://github.com/GarrettC14/pern-fullstack-Todo-App#readme"
+}
